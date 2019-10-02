@@ -1,0 +1,15 @@
+#### *[Simulator](simulator.md)* | *[Aliases](aliases.md)* | *[Scripts](scripts.md)*
+### Daily dev hacks
+# Simulator
+
+```
+
+
+
+
+react-native run ios --simulator="iPad Air (3rd Generation)"
+
+
+
+
+```
