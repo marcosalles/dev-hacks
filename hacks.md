@@ -1,4 +1,4 @@
-#### *[Simulator](simulator/01.md)* | *[Aliases](aliases/01.md)* | *[Scripts](scripts/01.md)*
+#### *[Simulator](simulator/01.md#daily-dev-hacks)* | *[Aliases](aliases/01.md#daily-dev-hacks)* | *[Scripts](scripts/01.md#daily-dev-hacks)*
 
 # Daily dev hacks
 
@@ -14,4 +14,4 @@ Subject: Daily dev Hacks
 
 ```
 
-> ~back~ | [next](simulator/01.md)
+> ~back~ | [next](simulator/01.md#daily-dev-hacks)
